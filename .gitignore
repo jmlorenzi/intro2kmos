@@ -1,0 +1,9 @@
+# Temporary files
+*~
+
+# Source files
+*.f90
+*.ppc
+
+# Binaries
+*.so

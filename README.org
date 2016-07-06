@@ -1,0 +1,9 @@
+#+TITLE: Introduction to kmos
+#+AUTHOR: Juan M. Lorenzi and Mie Andersen
+
+Material for the hands-on-session on the kmos kMC simulation package.
+Held during the
+#+BEGIN_CENTER
+College on Multiscale Computational Modeling of Materials for Energy Applications
+#+END_CENTER
+in the ICTP, Trieste, Italy, 7-8 July 2016.
