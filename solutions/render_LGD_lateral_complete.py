@@ -80,7 +80,7 @@ for coordinate_name, delta_E, coordinate in zip(names, delta_Es, coordinates):
                 for conf_species, temp_coord in zip(conf, temp_coords):
                     if temp_coord == left:
                         conf_species = 'source'
-                        diffusion_condition.append(Condition(species=conf_species, coord=temp_coord))
+                    diffusion_condition.append(Condition(species=conf_species, coord=temp_coord))
 
                 pt.add_process(
                     name='diffusion_%s_%s_source' % (coordinate_name, i),
